@@ -239,4 +239,29 @@ footer ul.footer-icons li a:focus i,
 footer ul.footer-icons li a:hover i, 
 footer ul.footer-icons li a:active i { color: var(--pink-600)}
 
+h3
+{
+    color: var(--pink-900);
+    font-family: 'Material Icons';
+    font-size: 275%;
+}
+
+p.form{
+    font-family: 'Material Icons';
+    color:var(--pink-800);
+    background-color:  var(--ontrend-200);
+    font-size: 180%;
+}
+
+button.submit
+{
+    font-family: 'Material Icons';
+    background-color: #2c0b0e;
+}
+
+div.container-form
+{
+    background-color: var(--ontrend-200)
+}
+
 
